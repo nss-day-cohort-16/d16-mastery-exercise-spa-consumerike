@@ -1,0 +1,16 @@
+.car_border {
+	border: 5px solid black;
+}
+
+.background_color{
+	background-color: slategrey;
+}	
+
+/*.col-md-4 {
+	border: 5px solid black;
+}*/
+
+.selected {
+	background-color: limegreen;
+	border: 8px solid black;
+}

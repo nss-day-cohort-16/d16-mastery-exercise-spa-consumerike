@@ -1,0 +1,23 @@
+
+{
+  "cars": [
+    { 
+      "name": "Honda Accord",
+      "year": "1994",
+      "price": "2000",
+      "description": "Japanese elegance and efficiency"
+    },
+    {
+      "name": "Subaru Legacy",
+      "year": "2008",
+      "price": "4000",
+      "description": "Love, it's what makes a Subaru"
+    },
+    {
+      "name": "BMW boxcar",
+      "year": "1985",
+      "price": "6000",
+      "description": "Ultimate driving machine"
+    }
+  ]
+}
